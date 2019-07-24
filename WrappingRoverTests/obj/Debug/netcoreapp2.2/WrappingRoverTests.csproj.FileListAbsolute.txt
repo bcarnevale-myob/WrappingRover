@@ -1,0 +1,17 @@
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/bin/Debug/netcoreapp2.2/WrappingRoverTests.deps.json
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/bin/Debug/netcoreapp2.2/WrappingRoverTests.runtimeconfig.json
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/bin/Debug/netcoreapp2.2/WrappingRoverTests.runtimeconfig.dev.json
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/bin/Debug/netcoreapp2.2/WrappingRoverTests.dll
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/bin/Debug/netcoreapp2.2/WrappingRoverTests.pdb
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/bin/Debug/netcoreapp2.2/WrappingRover.dll
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/bin/Debug/netcoreapp2.2/WrappingRover.pdb
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/obj/Debug/netcoreapp2.2/WrappingRoverTests.csprojAssemblyReference.cache
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/obj/Debug/netcoreapp2.2/WrappingRoverTests.csproj.CoreCompileInputs.cache
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/obj/Debug/netcoreapp2.2/WrappingRoverTests.AssemblyInfoInputs.cache
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/obj/Debug/netcoreapp2.2/WrappingRoverTests.AssemblyInfo.cs
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/obj/Debug/netcoreapp2.2/WrappingRoverTests.csproj.CopyComplete
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/obj/Debug/netcoreapp2.2/WrappingRoverTests.dll
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRoverTests/obj/Debug/netcoreapp2.2/WrappingRoverTests.pdb

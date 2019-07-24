@@ -1,0 +1,9 @@
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRover/obj/Debug/netcoreapp2.2/WrappingRover.csprojAssemblyReference.cache
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRover/obj/Debug/netcoreapp2.2/WrappingRover.csproj.CoreCompileInputs.cache
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRover/obj/Debug/netcoreapp2.2/WrappingRover.AssemblyInfoInputs.cache
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRover/obj/Debug/netcoreapp2.2/WrappingRover.AssemblyInfo.cs
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRover/bin/Debug/netcoreapp2.2/WrappingRover.deps.json
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRover/bin/Debug/netcoreapp2.2/WrappingRover.dll
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRover/bin/Debug/netcoreapp2.2/WrappingRover.pdb
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRover/obj/Debug/netcoreapp2.2/WrappingRover.dll
+/Users/bianca.carnevale/RiderProjects/Rover/WrappingRover/obj/Debug/netcoreapp2.2/WrappingRover.pdb
